@@ -165,7 +165,7 @@ list.add(todo1)
 list.add(todo2)
 list.add(todo3)
 
-p list.find_by_title("Clean room")
+#p list.find_by_title("Clean room")
 #p list.all_done
 #p list.all_not_done
 #p list.mark_done("Clean room")
